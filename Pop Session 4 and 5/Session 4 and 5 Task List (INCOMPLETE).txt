@@ -1,0 +1,17 @@
+OVERALL STATUS - (INCOMPLETE)
+
+Lecture Slides: (INCOMPLETE)
+Collections
+Maths
+Strings
+(Test the slides in an actual program with comments)
+
+Notes: (INCOMPLETE)
+Lists
+Dictionary
+Tuples
+Strings
+
+Exercises: (INCOMPLETE)
+Automatic testing with Travis CL and Coveralls
+Worksheet

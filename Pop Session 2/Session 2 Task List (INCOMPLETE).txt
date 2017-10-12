@@ -1,0 +1,27 @@
+OVERALL STATUS - INCOMPLETE
+
+Slides:
+More about values
+Loops
+Functions
+Git
+
+Notes:
+Iteration
+Fruitful Functions
+Version Control and Git
+
+Materials: (INCOMPLETE)
+Git - Lynda Course (1.20 hours)
+
+Snakify Exercises: (COMPLETE)
+Integer - DONE
+For Loop - DONE
+While Loop - DONE
+
+Git and Github Exercises:
+Work though Try Git Hub - DONE
+How to file a github issue
+Watch all videos (10)
+Skim through Hadley Wickham's guide to git
+create a repo on Github that answers three questions

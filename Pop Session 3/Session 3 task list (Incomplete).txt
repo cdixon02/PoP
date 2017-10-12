@@ -1,1 +1,24 @@
-OVERALL STATUS - INCOMPLETE
+OVERALL STATUS - (INCOMPLETE)
+
+Lecture Slides: (INCOMPLETE)
+Errors and error handling
+Unit Testing
+
+Notes: (INCOMPLETE)
+Testing
+Unit Testing Notes
+Debugging
+Continuous Integration
+
+Software: (INCOMPLETE)
+The Pytest framework
+Travis Continuous Integration
+Coveralls Test Coverage
+
+Exercises: (INCOMPLETE)
+Github Classroom Youtube videos 1 and 2 - DONE
+Exercises Unit testing with pytest
+Worksheet on Github Classroom
+
+Supplemental materials: (INCOMPLETE)
+Have a brief look at these
