@@ -1,0 +1,24 @@
+OVERALL STATUS - FINISHED
+
+Lecture Slides: (COMPLETE)
+
+Introduction and Overview - DONE
+Just enough Python to get you started - DONE
+Variables and Values - DONE
+Using IDLE - DONE
+
+Notes: (COMPLETE)
+
+Introduction - DONE
+Variables - DONE
+Conditionals - DONE
+Functions - DONE
+
+Exercises - Snakify (COMPLETE)
+
+Section 1 - Input - DONE
+Section 2 - Conditions - DONE
+
+Optional additional exercises: (COMPLETE)
+
+Computer Science Circles - DONE
