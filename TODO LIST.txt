@@ -1,6 +1,8 @@
 POP:
 Complete session 2 - 5 of POP
 Complete POP assignment 1
+Complete Snakify - Lists
+Complete Snakify - Strings
 
 FOC:
 Write up Lecture 1 of FoC
