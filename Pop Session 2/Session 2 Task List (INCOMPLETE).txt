@@ -1,17 +1,17 @@
-OVERALL STATUS - INCOMPLETE
+OVERALL STATUS - COMPLETE
 
-Slides:
-More about values
-Loops
-Functions
-Git
+Slides: (DONE)
+More about values(DONE)
+Loops(DONE)
+Functions (DONE)
+Git (DONE)
 
-Notes:
-Iteration
-Fruitful Functions
-Version Control and Git
+Notes: (DONE)
+Iteration (DONE)
+Fruitful Functions (DONE)
+Version Control and Git (DONE)
 
-Materials: (INCOMPLETE)
+Materials: (IN PROGRESS)
 Git - Lynda Course (1.20 hours)
 
 Snakify Exercises: (COMPLETE)
@@ -21,7 +21,7 @@ While Loop - DONE
 
 Git and Github Exercises:
 Work though Try Git Hub - DONE
-How to file a github issue
+How to file a github issue (OPTIONAL)
 Watch all videos (10)
 Skim through Hadley Wickham's guide to git
 create a repo on Github that answers three questions
