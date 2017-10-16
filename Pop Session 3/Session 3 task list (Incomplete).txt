@@ -1,8 +1,8 @@
 OVERALL STATUS - (INCOMPLETE)
 
-Lecture Slides: (INCOMPLETE)
-Errors and error handling
-Unit Testing
+Lecture Slides: (DONE)
+Errors and error handling (DONE)
+Unit Testing (DONE)
 
 Notes: (INCOMPLETE)
 Testing

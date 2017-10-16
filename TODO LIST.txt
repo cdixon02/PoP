@@ -1,6 +1,6 @@
 POP:
 Complete session 2 - 5 of POP (COMPLETED 2)
-Complete POP assignment 1
+Complete POP assignment 1 (COMPLETE - NEEDS TWEAKING)
 Complete Snakify - Lists 
 Complete Snakify - Strings (COMPLETE)
 
